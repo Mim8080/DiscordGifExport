@@ -22,3 +22,14 @@ Userscript and Node.js script for exporting GIFs from Discord as files.
 6. Move the `gifs.json` file to the project directory where the Node.js script is, so it sits next to `package.json`.
 7. Open a terminal window in the Node.js script's directory and run the command `node .`
 8. The exported GIFs will be saved in the `./output/` folder.
+
+<br>
+
+### Legal
+Copyright © 2026 Sv443, see [license.](./LICENSE.txt)  
+  
+Powered by:
+- [CoreUtils](https://github.com/Sv443-Network/CoreUtils)
+- [UserUtils](https://github.com/Sv443-Network/UserUtils)
+- [Node.js](https://nodejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)

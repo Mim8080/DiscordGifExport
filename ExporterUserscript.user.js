@@ -1,14 +1,21 @@
 // ==UserScript==
 // @name        Discord GIF Exporter
+// @version     1.0.0
 // @description Collects a list of all Discord GIF URLs and exports them
-// @namespace   https://github.com/Sv443
-// @match       https://discord.com/channels/*
-// @grant       GM.registerMenuCommand
-// @version     1.0
 // @author      Sv443
+// @copyright   Sv443 (https://github.com/Sv443)
+// @homepageURL https://github.com/Sv443/DiscordGifExport
+// @supportURL  https://github.com/Sv443/DiscordGifExport/issues
+// @namespace   https://github.com/Sv443
+// @license     MIT
+// @match       https://discord.com/channels/*
 // @run-at      document-start
+// @grant       GM.registerMenuCommand
 // @require     https://unpkg.com/@sv443-network/userutils@9.4.4/dist/index.global.js
 // @require     https://unpkg.com/@sv443-network/coreutils@2.0.0/dist/CoreUtils.min.umd.js
+// @noframes
+// @updateURL   https://github.com/Sv443/DiscordGifExport/raw/refs/heads/main/ExporterUserscript.user.js
+// @downloadURL https://github.com/Sv443/DiscordGifExport/raw/refs/heads/main/ExporterUserscript.user.js
 // ==/UserScript==
 
 const gifContainerSelector = "#gif-picker-tab-panel > div:nth-of-type(2)";
