@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        Discord Tenor Favorites Exporter
-// @description Collects a list of all favorite GIFs from Tenor to export them
+// @name        Discord GIF Exporter
+// @description Collects a list of all Discord GIF URLs and exports them
 // @namespace   https://github.com/Sv443
 // @match       https://discord.com/channels/*
 // @grant       GM.registerMenuCommand
