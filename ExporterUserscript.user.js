@@ -8,7 +8,7 @@
 // @supportURL  https://github.com/Sv443/DiscordGifExport/issues
 // @namespace   https://github.com/Sv443
 // @license     MIT
-// @match       https://discord.com/channels/*
+// @match       https://discord.com/*
 // @run-at      document-start
 // @grant       GM.registerMenuCommand
 // @require     https://unpkg.com/@sv443-network/userutils@9.4.4/dist/index.global.js
